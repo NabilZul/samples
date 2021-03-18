@@ -2,6 +2,7 @@ package samples.demo;
 
 public class Location {
 private int length;
+private int height;
 	public Location(int length) {
 		this.setLength(length);
 	}
